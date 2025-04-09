@@ -11,24 +11,6 @@ I am a dedicated and passionate software developer with over [X years] of experi
 - 💼 **Current Role**: [Your current role, e.g., Full-Stack Developer at XYZ Company]
 - ⚡ **Fun Fact**: I’m an avid learner who enjoys experimenting with new technologies and sipping coffee while coding late into the night!
 
----
-
-## Professional Experience
-
-### [Your Job Title] at [Company Name]
-**[Start Date] - Present | [City, Indonesia]**
-- Developed and maintained [specific type of applications, e.g., responsive web applications] using [technologies, e.g., Laravel, Node.js, MySQL].
-- Automated [specific process, e.g., data processing workflows], reducing manual effort by [X%] and improving operational efficiency.
-- Collaborated with cross-functional teams to design and implement [specific feature/project], resulting in [specific outcome, e.g., a 20% increase in user engagement].
-
-### [Previous Job Title] at [Previous Company Name]
-**[Start Date] - [End Date] | [City, Indonesia]**
-- Led the development of [specific project, e.g., an e-commerce platform], integrating [specific tools, e.g., TailwindCSS and Vite] for a seamless user experience.
-- Optimized [specific system/process, e.g., database queries], improving performance by [X%].
-- Mentored junior developers in [specific skill, e.g., JavaScript best practices], fostering a culture of knowledge-sharing.
-
----
-
 ## Education
 ### SMK Texmaco Semarang
 **Semarang, Indonesia | Graduated in 2025**
