@@ -8,7 +8,6 @@ I am a dedicated and passionate software developer with over [X years] of experi
 - 🌍 **Location**: Based in Indonesia
 - 🖥️ **Portfolio**: Explore my work at [Natz6N.dev](http://Natz6N.dev)
 - ✉️ **Email**: Reach me at [natzsixnismynames@gmail.com](mailto:natzsixnismynames@gmail.com)
-- 💼 **Current Role**: [Your current role, e.g., Full-Stack Developer at XYZ Company]
 - ⚡ **Fun Fact**: I’m an avid learner who enjoys experimenting with new technologies and sipping coffee while coding late into the night!
 
 ## Education
