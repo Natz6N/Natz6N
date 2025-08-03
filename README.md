@@ -1,163 +1,131 @@
-# Hi! My name is Natz6N Or Natan
+<div align="center">
+  <img src="https://i.pinimg.com/originals/44/27/57/442757cb859d28f896389b76fff1d758.gif" width="300px" />
+  <h1 align="center">Hey there, I'm Natz6N! 👋</h1>
+  <h3 align="center">🤖 Noob Programmer | 🌐 Internet Explorer | 🧪 Code Breaker | 🎮 Bot Developer</h3>
+</div>
 
 ---
 
-## About Me
-I am a dedicated and passionate software developer with over [X years] of experience in crafting innovative solutions through web development, automation systems, and bot integrations. My expertise lies in transforming complex real-world problems into efficient, scalable, and user-friendly applications. I thrive on contributing to open-source projects and collaborating with teams to streamline workflows, enhance productivity, and deliver high-quality software products.
-
-- 🌍 **Location**: Based in Indonesia
-- 🖥️ **Portfolio**: Explore my work at [Natz6N.dev](http://Natz6N.dev)
-- ✉️ **Email**: Reach me at [natzsixnismynames@gmail.com](mailto:natzsixnismynames@gmail.com)
-- ⚡ **Fun Fact**: I’m an avid learner who enjoys experimenting with new technologies and sipping coffee while coding late into the night!
-
-## Education
-### SMK Texmaco Semarang
-**Semarang, Indonesia | Graduated in 2025**
-- Major in Software Engineering (Rekayasa Perangkat Lunak).
-- Focused on Web Development.
-- Final Project: Credsh – A Wedding Website Platform.
-- Relevant Subjects: Basic Programming, Database Systems, Computer Networks, Web Design.
-
-
----
-
-## Key Projects
--
----
-
-## Skills
-
-### Programming Languages
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-  </a>
-</p>
-
-### Frameworks & Tools
-<p align="left">
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a>
-</p>
-
-### Design Tools
-<p align="left">
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Amateur+Developer;Loves+to+Break+Things;Mostly+Learn+by+Doing;Always+Curious" alt="Typing SVG" />
 </p>
 
 ---
 
-## Certifications 
--
+## 🧠 About Me
+
+- 💻 Call me **Natz6N** or **Natan**
+- 🎓 Self-taught programmer — trial & error is my sensei
+- ⚡ Build bots, automations, UI, API, CLI, and chaos
+- 🎯 Focused on learning, failing, and improving
+- 🧰 My weapon of choice: `Terminal + VSCode + Node.js`
 
 ---
 
-## Socials
-<p align="left">
-  <a href="https://discord.com/users/natzsixn" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.github.com/Natz6N" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="http://www.instagram.com/Natz6N" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.x.com/Natanae39885663" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.youtube.com/@Natz6N" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
+## 🚀 Tech Stack & Tools
+
+### 💻 Languages, Libraries, Frameworks
+
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
+
+### 🌐 Tools & Environments
+
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+
+### 🎨 Design & Media
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=fff)
+![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=fff)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=fff)
 
 ---
 
-## Badges
+## 🛠️ What I’m Working On
 
-### My GitHub Stats
-<a href="http://www.github.com/Natz6N">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natz6N&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Natz6N's GitHub stats" />
-</a>
+- 🤖 Building WhatsApp bots with custom command frameworks
+- 📥 YouTube downloader using `yt-dlp + ffmpeg`
+- 🖼️ Auto-generated Welcome/Goodbye Cards
+- 📦 JSON-based configuration systems for group moderation
+- 🧠 Learning Docker, WebSocket (Reverb), and PostgreSQL
 
-### Top Languages
-<a href="https://github.com/Natz6N" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natz6N&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+---
+
+## 🔥 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natz6N&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Natz6N&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natz6N&layout=compact&theme=tokyonight" height="180"/>
+</div>
+
+---
+
+## 🐍 Snake & Pacman Graphs
+
+![Snake](https://raw.githubusercontent.com/Natz6N/Natz6N/output/snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Natz6N/Natz6N/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Natz6N/Natz6N/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Natz6N/Natz6N/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🎮 Side Projects I Like
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🤖 WhatsApp Bot | Modular multi-command bot | 🔧 Active |
+| 🎞️ yt-dlp CLI | Audio/video downloader via Node.js | ✅ Done |
+| 🧃 JSON Database Manager | Flatfile config + security rules | 🔧 Building |
+| 🎮 Chat Game Commands | Text-based mini-games for bots | ✅ Fun |
+| 🧪 CLI Debugger | Color-coded CLI helper | 🚧 Prototype |
+
+---
+
+## 🎯 My 2025 Goals
+
+- [x] Build custom WhatsApp bot handler
+- [x] Integrate ffmpeg + ytdlp
+- [x] JSON-based group permission system
+- [ ] Publish one open-source project
+- [ ] Get more contributors & collaborators
+- [ ] Learn WebSocket deeply
+
+---
+
+## 📚 Currently Learning
+
+- ✅ Docker + containerizing apps
+- ✅ GitHub Actions for automation
+- 🔜 REST API authentication with OAuth
+- 🔜 Real-time chat backend with WebSocket
+- 🔜 PostgreSQL & Prisma
+
+---
+
+## 🤝 Let’s Connect
+
+- 🧠 Blog: [natzdevelopment.blogspot.com](https://natzdevelopment.blogspot.com)
+- 💬 Discord: `Coming soon`
+- 🌍 Website/Portfolio: `Under construction 🚧`
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" />
+  <br />
+  <strong>Keep Learning, Keep Building. Don’t Give Up 🚀</strong>
+</div>
