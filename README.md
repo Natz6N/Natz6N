@@ -18,7 +18,7 @@
 - 🎓 Self-taught programmer — trial & error is my best teacher
 - ⚡ Build bots, automations, websites, APIs, CLI tools, and a bit of chaos
 - 🎯 Focused on learning, failing, and improving
-- 🧰 My favorite tools: `Terminal + VSCode + Node.js`
+- 🧰 My favorite tools: `GENSHIN IMPACT IS THE BEST `
 
 ---
 
