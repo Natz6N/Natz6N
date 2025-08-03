@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/44/27/57/442757cb859d28f896389b76fff1d758.gif" width="300px" />
   <h1 align="center">Hey there, I'm Natz6N! 👋</h1>
-  <h3 align="center">🤖 Noob Programmer | 🌐 Internet Explorer | 🧪 Code Breaker | 🎮 Bot Developer</h3>
+  <h3 align="center">I'm a noob & amateur programmer, building stuff for fun 💻</h3>
 </div>
 
 ---
@@ -15,10 +15,10 @@
 ## 🧠 About Me
 
 - 💻 Call me **Natz6N** or **Natan**
-- 🎓 Self-taught programmer — trial & error is my sensei
-- ⚡ Build bots, automations, UI, API, CLI, and chaos
+- 🎓 Self-taught programmer — trial & error is my best teacher
+- ⚡ Build bots, automations, websites, APIs, CLI tools, and a bit of chaos
 - 🎯 Focused on learning, failing, and improving
-- 🧰 My weapon of choice: `Terminal + VSCode + Node.js`
+- 🧰 My favorite tools: `Terminal + VSCode + Node.js`
 
 ---
 
@@ -26,13 +26,14 @@
 
 ### 💻 Languages, Libraries, Frameworks
 
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
 
 ### 🌐 Tools & Environments
 
@@ -47,16 +48,17 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=fff)
 ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=fff)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 
 ---
 
 ## 🛠️ What I’m Working On
 
-- 🤖 Building WhatsApp bots with custom command frameworks
+- 🌐 Building a website using Laravel + React
+- 🤖 Building a WhatsApp bot with custom command support
 - 📥 YouTube downloader using `yt-dlp + ffmpeg`
-- 🖼️ Auto-generated Welcome/Goodbye Cards
-- 📦 JSON-based configuration systems for group moderation
-- 🧠 Learning Docker, WebSocket (Reverb), and PostgreSQL
+- 📦 JSON-based config system for group moderation
+- 🧠 Learning Docker, WebSocket (Reverb), and MySQL
 
 ---
 
@@ -73,7 +75,7 @@
 
 ## 🐍 Snake & Pacman Graphs
 
-![Snake](https://raw.githubusercontent.com/Natz6N/Natz6N/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Natz6N/Natz6N/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Natz6N/Natz6N/output/pacman-contribution-graph-dark.svg">
@@ -88,31 +90,32 @@
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🤖 WhatsApp Bot | Modular multi-command bot | 🔧 Active |
+| 🏠 OMAH KRUPUK Website | Website untuk usaha krupuk | 🔧 Active |
 | 🎞️ yt-dlp CLI | Audio/video downloader via Node.js | ✅ Done |
-| 🧃 JSON Database Manager | Flatfile config + security rules | 🔧 Building |
-| 🎮 Chat Game Commands | Text-based mini-games for bots | ✅ Fun |
-| 🧪 CLI Debugger | Color-coded CLI helper | 🚧 Prototype |
+| 🧃 JSON Config Manager | Flatfile config + security rules | 🔧 Building |
+| 🎮 Chat Game Commands | Text-based games in bot chat | ✅ Fun |
+| 🧪 CLI Debugger | Color-coded terminal helper | 🚧 Prototype |
 
 ---
 
 ## 🎯 My 2025 Goals
 
 - [x] Build custom WhatsApp bot handler
-- [x] Integrate ffmpeg + ytdlp
+- [x] Integrate ffmpeg + yt-dlp
 - [x] JSON-based group permission system
-- [ ] Publish one open-source project
+- [ ] Publish an open-source project
 - [ ] Get more contributors & collaborators
-- [ ] Learn WebSocket deeply
+- [ ] Master WebSocket + real-time tech
 
 ---
 
 ## 📚 Currently Learning
 
-- ✅ Docker + containerizing apps
-- ✅ GitHub Actions for automation
-- 🔜 REST API authentication with OAuth
-- 🔜 Real-time chat backend with WebSocket
-- 🔜 PostgreSQL & Prisma
+- ✅ Docker + containerizing projects
+- ✅ GitHub Actions for CI/CD
+- 🔜 REST API with OAuth & Passport
+- 🔜 Real-time app with WebSocket (Reverb)
+- 🔜 PostgreSQL + Prisma ORM
 
 ---
 
